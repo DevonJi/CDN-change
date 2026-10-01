@@ -6,7 +6,7 @@ a Quantumult X rewrite script to change Bilibili's CDN (by default, use Akamai)
 
 使用方法：
 Quantumult X添加重写引用资源：
-
+https://github.com/DevonJi/CDN-change/blob/main/bilibili_cdn_change.conf
 
 确保开启MITM
 
