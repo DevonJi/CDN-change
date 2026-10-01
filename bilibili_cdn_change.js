@@ -1,5 +1,5 @@
 // bilibili_cdn_change.js
-const targetCDN = "upos-hz-mirrorakam.akamaized.net";
+const targetCDN = "upos-sz-mirrorali.bilivideo.com";
 
 // 处理请求头
 function changeCDNHeader(request) {
